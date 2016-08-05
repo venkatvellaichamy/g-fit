@@ -1,0 +1,11 @@
+# external dependencies
+node_modules
+
+# external typings
+typings
+
+# output folder
+dist
+
+# webpack test file
+webpack.config.js
